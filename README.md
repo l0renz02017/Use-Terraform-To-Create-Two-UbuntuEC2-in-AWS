@@ -43,7 +43,7 @@ ubuntu2_ip = "54.x.x.x"
 
 This means you have successfully provisioned 2 free tier Ubuntu EC2 machines in AWS!
 
-You may not SSH into the two machines using the following commands
+You may now SSH into the two machines using the following commands
 
 🔐 SSH into the Instances
 ssh -i ~/.ssh/id_rsa ubuntu@<ubuntu1_ip>
